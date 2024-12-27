@@ -11,7 +11,7 @@ resource "aws_s3_bucket_versioning" "name" {
   versioning_configuration {
     status = "Enabled"
   }
-  depends_on = [ aws_s3_bucket.example ]
+  depends_on = [aws_s3_bucket.example]
 }
 
 data "aws_s3_bucket" "s3" {
