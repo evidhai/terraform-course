@@ -2,7 +2,7 @@
 
 Welcome to evidhai's terraform course.
 
-This repository holds , terraform file, exercise statement, solution of udemy course \<\<udemy course\>\>
+This repository holds , terraform file, exercise statement, solution of [udemy course](https://www.udemy/com/learn-terraform)
 
 Files are arranged Section wise
 
@@ -14,9 +14,10 @@ Files are arranged Section wise
 
 ## Join Discord
 
-Feel free to join our discord <<channel>> 
+
 - to showcase your project 
 - peer network
 - Ask queries
+- For course feedback , feel free to  Drop an email to techpechu@gmail.com 
 
-For course review , feel free to connect with me on [linkedin](https://www.linkedin.com/in/keerthivasan-kannan)
+You can connect with me on [linkedin](https://www.linkedin.com/in/keerthivasan-kannan) to check my latest work!
